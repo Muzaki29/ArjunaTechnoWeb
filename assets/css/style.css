@@ -1,0 +1,29 @@
+* {
+  font-family: poppins;
+}
+
+p {
+  color: #555555;
+}
+
+label {
+  font-size: 1rem;
+  color: #555555;
+}
+
+.login h3 {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.login p {
+  font-size: 1rem;
+}
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #c2c2c2;
+}
